@@ -7,12 +7,14 @@ Understands various user intents such as greetings, farewells, gratitude, and mo
 Provides relevant responses based on user input.
 Maintains a conversation history that can be viewed by the user.
 Built using Python and leverages popular libraries for NLP and machine learning.
+
 Technologies Used
 Python
 NLTK
 Scikit-learn
 Streamlit
 JSON for intents data
+
 Installation
 1. Clone the Repository
 git clone <repository-url>
@@ -25,6 +27,7 @@ pip install -r requirements.txt
 4. Download NLTK Data
 import nltk
 nltk.download('punkt')
+
 Usage
 To run the chatbot application, execute the following command:
 
