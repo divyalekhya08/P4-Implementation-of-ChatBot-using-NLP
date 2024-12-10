@@ -5,16 +5,23 @@ This project implements a chatbot using Natural Language Processing (NLP) techni
 Features
 
 1.Understands various user intents such as greetings, farewells, gratitude, and more.
+
 2.Provides relevant responses based on user input.
+
 3.Maintains a conversation history that can be viewed by the user.
+
 4.Built using Python and leverages popular libraries for NLP and machine learning.
 
 Technologies Used
 
 Python
+
 NLTK
+
 Scikit-learn
+
 Streamlit
+
 JSON for intents data
 
 Installation
